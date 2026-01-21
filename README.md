@@ -2,10 +2,6 @@
 
 Custom functionality plugin for the [UCSC home environment](https://www.ucsc.edu).
 
-## Description
-
-This plugin provides custom functionality and features specific to the [UCSC home environment](https://www.ucsc.edu).
-
 ## Installation
 
 1. Upload the plugin files to the `/wp-content/plugins/ucsc-www-functionality` directory
@@ -15,8 +11,3 @@ This plugin provides custom functionality and features specific to the [UCSC hom
 
 - WordPress 5.0 or higher
 - PHP 7.4 or higher
-
-## Changelog
-
-### 1.0.0
-- Initial release
