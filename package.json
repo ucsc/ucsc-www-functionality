@@ -1,6 +1,6 @@
 {
     "name": "ucsc-www-functionality",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Custom functionality for the UCSC main website",
     "scripts": {
         "zip": "wp-scripts plugin-zip",

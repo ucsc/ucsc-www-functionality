@@ -4,7 +4,7 @@
  * Plugin Name: UCSC WWW Functionality
  * Plugin URI: https://github.com/ucsc/ucsc-www-functionality/
  * Description: Custom functionality for the UCSC main website
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: UC Santa Cruz
  * Author URI: https://www.ucsc.edu
  * License: GPL-2.0+
