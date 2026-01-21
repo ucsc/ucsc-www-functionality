@@ -29,5 +29,5 @@ jobs:
             - name: Release
               uses: softprops/action-gh-release@v1
               with:
-                  files: ucsc-news-functionality.zip
+                  files: ucsc-www-functionality.zip
                   generate_release_notes: true
